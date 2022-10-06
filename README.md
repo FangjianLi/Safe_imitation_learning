@@ -19,3 +19,7 @@ Safe adversarial inverse reinforcement learning in the paper "Safety-Aware Adver
 * CBF-based sampling: ```python sample_CBF.py```
 * safety critic training: ```python run_safety_critic_Q_training.py```
 * train the SAIRL: ```run_SAIRL_highway.py```
+
+## The clips of trained models
+<img src="AIRL_DRIVE.gif" width="200" height="150"/>
+<img src="SAIRL_DRIVE.gif" width="200" height="150"/>
