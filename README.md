@@ -21,5 +21,4 @@ Safe adversarial inverse reinforcement learning in the paper "Safety-Aware Adver
 * train the SAIRL: ```run_SAIRL_highway.py```
 
 ## The clips of trained models
-<img src="AIRL_DRIVE.gif" width="200" height="150"/>
-<img src="SAIRL_DRIVE.gif" width="200" height="150"/>
+<img src="AIRL_DRIVE.gif" width="300"/> <img src="SAIRL_DRIVE.gif" width="300" />
